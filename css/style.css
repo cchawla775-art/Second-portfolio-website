@@ -294,6 +294,18 @@ section h2 {
     color: #000;
 }
 
+.skills-category{
+    margin-bottom: 40px;
+}
+
+.skills-category h3{
+    color: #00d9ff;
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: 600;
+}
+
 /* ================= CERTIFICATE ================= */
 
 .certificates{
